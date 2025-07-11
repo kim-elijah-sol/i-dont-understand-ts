@@ -1,0 +1,10 @@
+{
+  "name": "colour",
+  "version": "1.0.0",
+  "scripts": {
+  },
+  "workspaces": [
+    "apps/*"
+  ],
+  "packageManager": "pnpm@10.13.1"
+}
