@@ -20,6 +20,8 @@ importers:
 
   apps/freshness: {}
 
+  apps/variance-annotations: {}
+
 packages:
 
   '@cspotcode/source-map-support@0.8.1':
