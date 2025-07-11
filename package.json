@@ -1,10 +1,13 @@
 {
-  "name": "colour",
+  "name": "i-dont-understand-ts",
   "version": "1.0.0",
-  "scripts": {
-  },
+  "scripts": {},
   "workspaces": [
     "apps/*"
   ],
-  "packageManager": "pnpm@10.13.1"
+  "packageManager": "pnpm@10.13.1",
+  "devDependencies": {
+    "@types/node": "^24.0.13",
+    "typescript": "^5.8.3"
+  }
 }
