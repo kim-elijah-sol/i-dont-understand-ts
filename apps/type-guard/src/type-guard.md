@@ -42,3 +42,14 @@ instance instanceof Class;
 
 과 같은 문법으로 사용되며 in 을 기준으로 좌측 항에는 찾을 필드명을,<br>
 우측 항에는 필드명을 찾을 심볼을 대입할 수 있다.
+
+## 사용자 정의 Type Guard
+
+타입 가드 함수를 만들어, 인자로 넘어온 심볼이 어떤 타입인지 좁힐 수 있다.
+
+```typescript
+function fx(value: unknown): value is string;
+```
+
+과 같은 문법으로 함수를 작성하며, 반환 영역에 is 를 기준으로 좌측에는 인자명을,<br>
+우측 항에는 좁힐 타입을 대입할 수 있다.
