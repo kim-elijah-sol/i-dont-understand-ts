@@ -20,6 +20,8 @@ importers:
 
   apps/freshness: {}
 
+  apps/infer: {}
+
   apps/type-guard: {}
 
   apps/variance-annotations: {}
