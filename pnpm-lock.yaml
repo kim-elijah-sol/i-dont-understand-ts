@@ -24,6 +24,8 @@ importers:
 
   apps/recursive-type: {}
 
+  apps/tsconfig-outDir: {}
+
   apps/type-guard: {}
 
   apps/variance-annotations: {}
