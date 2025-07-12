@@ -1,0 +1,8 @@
+{
+  "name": "recursive-type",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "ts-node ./src/index.ts"
+  },
+  "packageManager": "pnpm@10.13.1"
+}

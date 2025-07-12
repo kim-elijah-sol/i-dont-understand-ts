@@ -22,6 +22,8 @@ importers:
 
   apps/infer: {}
 
+  apps/recursive-type: {}
+
   apps/type-guard: {}
 
   apps/variance-annotations: {}
