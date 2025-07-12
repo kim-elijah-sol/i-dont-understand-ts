@@ -26,6 +26,8 @@ importers:
 
   apps/tsconfig-outDir: {}
 
+  apps/tsconfig-rootDir: {}
+
   apps/type-guard: {}
 
   apps/variance-annotations: {}
