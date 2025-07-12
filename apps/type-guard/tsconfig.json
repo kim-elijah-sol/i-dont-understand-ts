@@ -1,9 +1,3 @@
 {
-  "compilerOptions": {
-    "target": "esnext",
-    "module": "commonjs",
-    "esModuleInterop": true,
-    "forceConsistentCasingInFileNames": true,
-    "strict": true
-  }
+  "extends": "../../tsconfig.base"
 }
