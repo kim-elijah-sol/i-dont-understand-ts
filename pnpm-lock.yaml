@@ -20,6 +20,8 @@ importers:
 
   apps/freshness: {}
 
+  apps/type-guard: {}
+
   apps/variance-annotations: {}
 
 packages:
