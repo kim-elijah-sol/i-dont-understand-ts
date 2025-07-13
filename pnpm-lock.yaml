@@ -36,6 +36,12 @@ importers:
 
   apps/tsconfig-outDir: {}
 
+  apps/tsconfig-path:
+    devDependencies:
+      tsconfig-paths:
+        specifier: ^4.2.0
+        version: 4.2.0
+
   apps/tsconfig-rootDir: {}
 
   apps/tsconfig-target: {}

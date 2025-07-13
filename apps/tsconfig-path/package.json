@@ -1,5 +1,5 @@
 {
-  "name": "tsconfig-baseurl",
+  "name": "tsconfig-path",
   "version": "1.0.0",
   "scripts": {
     "dev": "ts-node -r tsconfig-paths/register ./src/index.ts"

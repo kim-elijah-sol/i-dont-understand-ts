@@ -1,0 +1,10 @@
+{
+  "extends": "../../tsconfig.base",
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "paths": {
+      "~fx/*": ["fx/*"],
+      "~constants/*": ["constants/*"]
+    }
+  }
+}
