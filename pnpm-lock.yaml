@@ -24,6 +24,8 @@ importers:
 
   apps/recursive-type: {}
 
+  apps/tsconfig-exclude: {}
+
   apps/tsconfig-include: {}
 
   apps/tsconfig-outDir: {}
