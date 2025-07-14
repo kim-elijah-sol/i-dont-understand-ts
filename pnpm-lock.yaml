@@ -36,6 +36,8 @@ importers:
 
   apps/tsconfig-exclude: {}
 
+  apps/tsconfig-files: {}
+
   apps/tsconfig-include: {}
 
   apps/tsconfig-lib: {}
