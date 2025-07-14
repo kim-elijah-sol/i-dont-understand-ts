@@ -40,6 +40,8 @@ importers:
 
   apps/tsconfig-include: {}
 
+  apps/tsconfig-incremental: {}
+
   apps/tsconfig-lib: {}
 
   apps/tsconfig-outDir: {}

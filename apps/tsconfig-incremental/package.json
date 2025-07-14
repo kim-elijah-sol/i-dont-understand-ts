@@ -1,0 +1,8 @@
+{
+  "name": "tsconfig-incremental",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tsc"
+  },
+  "packageManager": "pnpm@10.13.1"
+}
