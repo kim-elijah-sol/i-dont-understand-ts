@@ -32,6 +32,8 @@ importers:
 
   apps/tsconfig-declaration: {}
 
+  apps/tsconfig-declarationDir: {}
+
   apps/tsconfig-exclude: {}
 
   apps/tsconfig-include: {}
