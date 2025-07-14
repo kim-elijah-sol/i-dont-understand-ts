@@ -50,6 +50,8 @@ importers:
         specifier: ^4.2.0
         version: 4.2.0
 
+  apps/tsconfig-removeComments: {}
+
   apps/tsconfig-rootDir: {}
 
   apps/tsconfig-target: {}
