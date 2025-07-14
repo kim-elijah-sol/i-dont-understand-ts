@@ -38,6 +38,8 @@ importers:
 
   apps/tsconfig-include: {}
 
+  apps/tsconfig-lib: {}
+
   apps/tsconfig-outDir: {}
 
   apps/tsconfig-path:
