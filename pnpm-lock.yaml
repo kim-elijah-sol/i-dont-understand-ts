@@ -58,6 +58,8 @@ importers:
 
   apps/tsconfig-target: {}
 
+  apps/tsconfig-tsBuildInfoFile: {}
+
   apps/type-guard: {}
 
   apps/variance-annotations: {}
