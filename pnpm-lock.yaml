@@ -64,6 +64,8 @@ importers:
 
   apps/tsconfig-rootDir: {}
 
+  apps/tsconfig-sourceMap: {}
+
   apps/tsconfig-target: {}
 
   apps/tsconfig-tsBuildInfoFile: {}
