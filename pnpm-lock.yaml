@@ -20,6 +20,8 @@ importers:
 
   apps/freshness: {}
 
+  apps/generic-conditional-type: {}
+
   apps/infer: {}
 
   apps/recursive-type: {}
