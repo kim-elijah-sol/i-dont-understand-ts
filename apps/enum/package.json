@@ -2,7 +2,7 @@
   "name": "enum",
   "version": "1.0.0",
   "scripts": {
-    "dev": "ts-node ./src/enum-mapping-type-guard.ts",
+    "dev": "ts-node ./src/const-enum.ts",
     "build": "tsc"
   },
   "packageManager": "pnpm@10.13.1"
