@@ -20,6 +20,8 @@ importers:
 
   apps/distributive-conditional-types: {}
 
+  apps/enum: {}
+
   apps/freshness: {}
 
   apps/generic-conditional-type: {}

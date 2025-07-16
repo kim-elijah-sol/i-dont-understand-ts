@@ -1,0 +1,9 @@
+{
+  "name": "enum",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "ts-node ./src/enum.ts",
+    "build": "tsc"
+  },
+  "packageManager": "pnpm@10.13.1"
+}
