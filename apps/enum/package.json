@@ -2,7 +2,7 @@
   "name": "enum",
   "version": "1.0.0",
   "scripts": {
-    "dev": "ts-node ./src/string-enum.ts",
+    "dev": "ts-node ./src/enum-mapping.ts",
     "build": "tsc"
   },
   "packageManager": "pnpm@10.13.1"
