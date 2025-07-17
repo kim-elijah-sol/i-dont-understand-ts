@@ -28,6 +28,8 @@ importers:
 
   apps/infer: {}
 
+  apps/mapped-type: {}
+
   apps/recursive-type: {}
 
   apps/tsconfig-baseUrl:
